@@ -1,4 +1,4 @@
-<h1>Hello! I'm Amanda, an <a href="https://linkedin.com/in/amandakingsley">IT Professional</a>☺</h1>
+<h1>Hello! I'm Amanda, an <a href="https://linkedin.com/in/akingsley22">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
